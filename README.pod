@@ -1,6 +1,6 @@
 =encoding utf8
 
-=head1 Captioned Image - Friends T.V. Show “Nothing Sexier”
+=head1 Captioned Image - Simpsons - “If you wanna be sad, be sad”
 
 =head2 About
 
@@ -9,12 +9,12 @@ edit it type:
 
     inkscape ./Nothing-Sexier.svg
 
-Image still ( C<Friends-S02E04--vlcsnap-2014-09-28-22h58m54s138.jpg>) taken
-from Episode S02E04 of the television show Friends.
+Image still ( C<Simpsons-Moaning-Lisa-snap.png>) taken
+from L<http://simpsons.wikia.com/wiki/Moaning_Lisa> .
 
 The final image can be viewed online here:
 
-L<http://www.shlomifish.org/nothing-sexier/>
+L<http://www.shlomifish.org/if-you-wanna-be-sad/>
 
 =head2 Creator
 
