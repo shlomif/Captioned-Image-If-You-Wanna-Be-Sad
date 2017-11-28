@@ -1,0 +1,24 @@
+=encoding utf8
+
+=head1 Captioned Image - Simpsons - “If you wanna be sad, be sad”
+
+=head2 About
+
+This repository contains the sources for a captioned image. To view or
+edit it type:
+
+    inkscape ./Nothing-Sexier.svg
+
+Image still ( C<Simpsons-Moaning-Lisa-snap.png>) taken
+from L<http://simpsons.wikia.com/wiki/Moaning_Lisa> .
+
+The final image can be viewed online here:
+
+L<http://www.shlomifish.org/if-you-wanna-be-sad/>
+
+=head2 Creator
+
+L<http://www.shlomifish.org/> - Shlomi Fish.
+
+=cut
+
